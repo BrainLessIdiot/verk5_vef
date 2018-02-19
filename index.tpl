@@ -2,7 +2,7 @@
 <html>
   <head>
       <style>
-          .rammi{border: 3px groove Green; width: 30%; margin: 0 auto;}
+          .rammi{border: 3px groove maroon; width: 30%; margin: 0 auto;}
       </style>
     <meta charset="UTF-8">
   </head>
